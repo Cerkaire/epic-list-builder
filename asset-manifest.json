@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/epic-list-builder/static/css/main.bcb553f2.css",
-    "main.js": "/epic-list-builder/static/js/main.65901e0e.js",
+    "main.css": "/epic-list-builder/static/css/main.e210fa8e.css",
+    "main.js": "/epic-list-builder/static/js/main.464b1e36.js",
     "static/js/651.0341703a.chunk.js": "/epic-list-builder/static/js/651.0341703a.chunk.js",
     "index.html": "/epic-list-builder/index.html",
-    "main.bcb553f2.css.map": "/epic-list-builder/static/css/main.bcb553f2.css.map",
-    "main.65901e0e.js.map": "/epic-list-builder/static/js/main.65901e0e.js.map",
+    "main.e210fa8e.css.map": "/epic-list-builder/static/css/main.e210fa8e.css.map",
+    "main.464b1e36.js.map": "/epic-list-builder/static/js/main.464b1e36.js.map",
     "651.0341703a.chunk.js.map": "/epic-list-builder/static/js/651.0341703a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcb553f2.css",
-    "static/js/main.65901e0e.js"
+    "static/css/main.e210fa8e.css",
+    "static/js/main.464b1e36.js"
   ]
 }
